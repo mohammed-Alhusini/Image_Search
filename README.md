@@ -1,5 +1,5 @@
 
-## Image_Search
+## Image Search Project
 
 ---
 
